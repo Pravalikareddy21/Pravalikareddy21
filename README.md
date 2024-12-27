@@ -12,11 +12,12 @@ Aspiring Data Scientist | AIML Enthusiast | Data Science Student | Passionate Le
 ---
 
 ### 🚀 About Me:
-🌱 I’m currently learning Data Science,AI, Machine Learning, and App Development  
-📫 How to reach me: pravalikareddy727@gmail.com 
-🔗 Check out my [Portfolio](https://pravalikareddy21.github.io/portfolio/)
+🌱 I’m currently learning **AI, Machine Learning, and App Development**  
+👨‍💻 All of my projects are available at [My Portfolio](https://pravalikareddy21.github.io/portfolio/)  
+💬 Ask me about **Data Science, Machine Learning**  
+📫 How to reach me: **pravalikareddy727@gmail.com**  
+📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/162QRLpu5rf80fa2B8cffDUYvGPRxDJNP/view?usp=drive_link)  
 
----
 
 ### 💻 My Tech Stack:
 
